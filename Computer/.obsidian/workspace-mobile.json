@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "090165252515faec",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fea1bf5a651a832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12bab23ca5e6db30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55ab109c1b59ace1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7720b6d10278d80",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d3894f8c83ba348a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ce4738f18fb02ae4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "91194756db67069c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "77f178603ac721cd",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "101f2f3f22d755f3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "69e7f5622d5be759",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bdffb1490fd134ed",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Linux.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ff214f704cf2ecfe",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Linux.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "25364b8bace750a9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Linux.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "55ab109c1b59ace1",
+  "lastOpenFiles": [
+    "Java.md",
+    "Linux.md",
+    "zattachment/Pasted image 20230606210336.png",
+    "zattachment/Pasted image 20230607104252.png",
+    "zattachment/Pasted image 20230606223535.png",
+    "zattachment/Pasted image 20230606210814.png",
+    "zattachment/Pasted image 20230605191021.png",
+    "zattachment/Pasted image 20230605184647.png",
+    "zattachment/Pasted image 20230530154412.png",
+    "zattachment/Pasted image 20230530153438.png",
+    "IMG_0603.jpeg",
+    "IMG_0598.jpeg",
+    "未命名.md",
+    "shell.md",
+    "c++补充.md",
+    "C.md",
+    "随便记.md",
+    "DataStructure.md",
+    "英语.md",
+    "未命名",
+    "Pasted image 20230427233620.png.md",
+    "collection/1+2+...+n.md",
+    "zattachment",
+    "attachment",
+    "未命名图片.png.md"
+  ]
+}
